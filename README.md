@@ -11,7 +11,8 @@ You will build a chat application with the following features:
 4. Real-time notifications
 5. Advanced features like typing indicators and read receipts
 
-## Project Structure
+ocumentation
+```## Project Structure
 
 ```
 socketio-chat/
@@ -33,8 +34,7 @@ socketio-chat/
 │   ├── utils/              # Utility functions
 │   ├── server.js           # Main server file
 │   └── package.json        # Server dependencies
-└── README.md               # Project documentation
-```
+└── README.md               # Project d
 
 ## Getting Started
 
